@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" width="45%" alt="Lilian-MMI's Github Top Languages" src="https://github-readme-stats-1-psi.vercel.app/api/top-langs/?username=Lilian-MMI&theme=radical&count_private=true&layout=compact" />
-<img align="left" width="45% alt="Lilian-MMI's WakaTime Stats" src="https://github-readme-stats-1-psi.vercel.app/api/wakatime?username=Ninian&theme=radical" />
+<img align="left" width="45%" alt="Lilian-MMI's WakaTime Stats" src="https://github-readme-stats-1-psi.vercel.app/api/wakatime?username=Ninian&theme=radical" />
 <img align="center" width="100%" alt="Lilian-MMI's Github Stats" src="https://github-readme-stats-1-psi.vercel.app/api?username=Lilian-MMI&show_icons=true&theme=radical&count_private=true" />
