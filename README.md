@@ -1,3 +1,7 @@
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi!" />
+
+**I'm a young and ambitious French developer at Ynov Informatique in Nantes.**
+
 <style>
   .rich-diff-level-zero {
     text-align: end;
@@ -5,15 +9,11 @@
   }
 </style>
 
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi!" />
-
-**I'm a young and ambitious French developer at Ynov Informatique in Nantes.**
-
 <hr>
 
 **More about me:**
 
- <img src="https://s4.gifyu.com/images/oie_VZFS7msUnKar.gif">
+ <img src="https://s4.gifyu.com/images/oie_VZFS7msUnKar.gif"/>
    
  - 🔭 I'm currently working on my new portfolio
  - 🌱 I’m currently learning `NestJs`
