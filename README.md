@@ -2,18 +2,11 @@
 
 **I'm a young and ambitious French developer at Ynov Informatique in Nantes.**
 
-<style>
-  .rich-diff-level-zero {
-    text-align: end;
-    float: right;
-  }
-</style>
-
 <hr>
 
 **More about me:**
 
- <img src="https://s4.gifyu.com/images/oie_VZFS7msUnKar.gif"/>
+ <img style="float: right !important" src="https://s4.gifyu.com/images/oie_VZFS7msUnKar.gif">
    
  - 🔭 I'm currently working on my new portfolio
  - 🌱 I’m currently learning `NestJs`
