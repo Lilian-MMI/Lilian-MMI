@@ -71,4 +71,4 @@ MovieSearch              3 mins              ░░░░░░░░░░░�
 **Other stats:** 
 
 <img align="right" width="43.5%" alt="Lilian-MMI's Github Top Languages" src="https://github-readme-stats-1-psi.vercel.app/api/top-langs/?username=Lilian-MMI&theme=dark&count_private=true&layout=compact" />
-<img align="left" alt="Lilian-MMI's Github Stats" src="https://github-readme-stats-1-psi.vercel.app/api?username=Lilian-MMI&show_icons=true&theme=dark&count_private=true" />
+<img align="left" width="52.3%;" alt="Lilian-MMI's Github Stats" src="https://github-readme-stats-1-psi.vercel.app/api?username=Lilian-MMI&show_icons=true&theme=dark&count_private=true" />
