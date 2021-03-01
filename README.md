@@ -6,14 +6,14 @@
 
 **More about me:**
 
- <img align="right" height="200" src="https://s4.gifyu.com/images/oie_VZFS7msUnKar.gif" />
+ <img align="right" height="200" src="./assets/cat-internet.gif" />
    
  - 🔭 I'm currently working on my new portfolio
  - 🌱 I’m currently learning `NestJs`
  - 💬 Ask me about anything, I love to share
  - 😄 Pronouns: He/Him
  - ⚙️ I use daily: `.js`, `.php`, `.html`, `.css`, `.ts` and web design software, such as `Adobe XD` or `Figma`
- - 📝 Checkout my resume 👉 <a href="https://drive.google.com/file/d/1nFRufq-LQNzF7V2jAKy9OqUDqUPouR2s/view?usp=sharing">`(Fr)`</a> or <a href="https://drive.google.com/file/d/1Yklv8lg3sswrNt2enNRVTxWEKPaYb9L0/view?usp=sharing">`(Us)`</a> version
+ - 📝 Checkout my resume 👉 <a href="./assets/cv_lilian_ouvrard.pdf">`(Fr)`</a> or <a href="./assets/cv_lilian_ouvrard_US.pdf">`(Us)`</a> version
  - ⚡ Fun fact: Fan of the great Professor Layton 🎩
  - 📫 How to reach me: <a href="mailto:ouvrard.l@outlook.com">`Email`</a> / <a target="_blank" href="https://www.linkedin.com/in/lilian-ouvrard-b8130317b/">`LinkedIn`</a>
 
