@@ -15,4 +15,4 @@ jobs:
           WAKATIME_API_KEY: 139693b7-b383-4d68-9b37-cdab0c34d98a
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          
+          SHOW_COMMIT: true
