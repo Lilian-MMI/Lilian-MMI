@@ -41,11 +41,11 @@ Here are some ideas to get you started: -->
 
 <!--START_SECTION:waka-->
 ```text
-SCSS         1 hr 31 mins    █████████▒░░░░░░░░░░░░░░░   37.72 % 
-Markdown     1 hr 28 mins    █████████░░░░░░░░░░░░░░░░   36.53 % 
-HTML         51 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.46 % 
-JavaScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+SCSS         1 hr 31 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.72 % 
+Markdown     1 hr 28 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.53 % 
+HTML         51 mins         ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.46 % 
+JavaScript   6 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.73 % 
+TypeScript   3 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.56 % 
 ```
 <!--END_SECTION:waka-->
 
