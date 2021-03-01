@@ -6,7 +6,7 @@
 
 **More about me:**
 
- <img style="float: right !important" src="https://s4.gifyu.com/images/oie_VZFS7msUnKar.gif">
+ <img align="right" height="200" src="https://s4.gifyu.com/images/oie_VZFS7msUnKar.gif" />
    
  - 🔭 I'm currently working on my new portfolio
  - 🌱 I’m currently learning `NestJs`
@@ -27,7 +27,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
@@ -39,6 +39,7 @@
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-171600%20lines%20of%20code-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -69,6 +70,5 @@ MovieSearch              3 mins              ░░░░░░░░░░░�
 
 **Other stats:** 
 
-<img align="right" width="45%" alt="Lilian-MMI's Github Top Languages" src="https://github-readme-stats-1-psi.vercel.app/api/top-langs/?username=Lilian-MMI&theme=radical&count_private=true&layout=compact" />
-<img align="left" width="45%" alt="Lilian-MMI's WakaTime Stats" src="https://github-readme-stats-1-psi.vercel.app/api/wakatime?username=Ninian&theme=radical" />
-<img align="center" width="100%" alt="Lilian-MMI's Github Stats" src="https://github-readme-stats-1-psi.vercel.app/api?username=Lilian-MMI&show_icons=true&theme=radical&count_private=true" />
+<img align="right" width="45%" alt="Lilian-MMI's Github Top Languages" src="https://github-readme-stats-1-psi.vercel.app/api/top-langs/?username=Lilian-MMI&theme=dark&count_private=true&layout=compact" />
+<img align="left" width="45%" alt="Lilian-MMI's Github Stats" src="https://github-readme-stats-1-psi.vercel.app/api?username=Lilian-MMI&show_icons=true&theme=dark&count_private=true" />
