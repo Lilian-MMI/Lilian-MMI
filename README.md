@@ -38,13 +38,13 @@
 **Profil overview:** 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-243670%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-242693%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    72 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
-🌆 Daytime    169 commits    ██████████░░░░░░░░░░░░░░░   40.53% 
+🌞 Morning    74 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.75% 
+🌆 Daytime    167 commits    ██████████░░░░░░░░░░░░░░░   40.05% 
 🌃 Evening    157 commits    █████████░░░░░░░░░░░░░░░░   37.65% 
 🌙 Night      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.56%
 
@@ -61,7 +61,7 @@ near-event-app           9 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/06/2021
+ Last Updated on 13/06/2021
 <!--END_SECTION:waka-->
 
 <hr>
