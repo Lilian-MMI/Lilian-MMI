@@ -40,13 +40,13 @@
 **Profil overview:** 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-249892%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-250026%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    69 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
-🌆 Daytime    187 commits    ███████████░░░░░░░░░░░░░░   44.42% 
+🌞 Morning    68 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
+🌆 Daytime    188 commits    ███████████░░░░░░░░░░░░░░   44.66% 
 🌃 Evening    146 commits    ████████░░░░░░░░░░░░░░░░░   34.68% 
 🌙 Night      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.51%
 
@@ -64,7 +64,7 @@ Lilian                   0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/08/2021
+ Last Updated on 11/08/2021
 <!--END_SECTION:waka-->
 
 <hr>
