@@ -40,7 +40,7 @@
 **Profil overview:** 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-247180%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-247025%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -57,12 +57,13 @@
 
 ```text
 🐱‍💻 Projects: 
-wp-management            11 hrs 5 mins       █████████████████████████   100.0%
+wp-management            7 hrs 30 mins       █████████████████████████   100.0% 
+Lilian                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
 
- Last Updated on 17/08/2021
+ Last Updated on 18/08/2021
 <!--END_SECTION:waka-->
 
 <hr>
