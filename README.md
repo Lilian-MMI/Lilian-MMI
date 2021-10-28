@@ -40,13 +40,13 @@
 **Profil overview:** 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304508%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304413%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
-🌆 Daytime    248 commits    ████████████░░░░░░░░░░░░░   50.92% 
+🌞 Morning    72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
+🌆 Daytime    249 commits    ████████████░░░░░░░░░░░░░   51.13% 
 🌃 Evening    147 commits    ███████░░░░░░░░░░░░░░░░░░   30.18% 
 🌙 Night      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.9%
 
@@ -62,7 +62,7 @@ training_archi_tp_archite1 min               ███████████�
 ```
 
 
- Last Updated on 27/10/2021
+ Last Updated on 28/10/2021
 <!--END_SECTION:waka-->
 
 <hr>
