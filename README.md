@@ -57,12 +57,12 @@
 
 ```text
 🐱‍💻 Projects: 
-training_archi_tp_archite1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 01/11/2021
+ Last Updated on 02/11/2021
 <!--END_SECTION:waka-->
 
 <hr>
