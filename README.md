@@ -40,7 +40,7 @@
 **Profil overview:** 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -62,7 +62,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/01/2022
+ Last Updated on 04/01/2022
 <!--END_SECTION:waka-->
 
 <hr>
