@@ -9,7 +9,7 @@
  <img align="right" height="200" src="./assets/cat-internet.gif" />
    
  - 🔭 I'm currently working on my new portfolio
- - 🌱 I’m currently learning `NestJs`
+ - 🌱 I’m currently learning `Django`
  - 💬 Ask me about anything, I love to share
  - 😄 Pronouns: He/Him
  - ⚙️ I use daily: `.js`, `.php`, `.html`, `.css`, `.ts` and web design software, such as `Adobe XD` or `Figma`
@@ -26,6 +26,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="40" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
