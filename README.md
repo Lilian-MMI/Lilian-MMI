@@ -9,7 +9,7 @@
  <img align="right" height="200" src="./assets/cat-internet.gif" />
    
  - 🔭 I'm currently working on my new portfolio
- - 🌱 I’m currently learning `Django`
+ - 🌱 I’m currently learning `Nuxt`
  - 💬 Ask me about anything, I love to share
  - 😄 Pronouns: He/Him
  - ⚙️ I use daily: `.js`, `.php`, `.html`, `.css`, `.ts` and web design software, such as `Adobe XD` or `Figma`
