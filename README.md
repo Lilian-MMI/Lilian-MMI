@@ -1,4 +1,4 @@
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi!" />
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24" alt="hi!" />
 
 **I'm a young and ambitious French developer at Ynov Informatique in Nantes.**
 
@@ -9,7 +9,7 @@
  <img align="right" height="200" src="./assets/cat-internet.gif" />
    
  - 🔭 I'm currently working on my new portfolio
- - 🌱 I’m currently learning `Nuxt`
+ - 🌱 I’m currently learning <a href="https://www.meteor.com/" target="_blank">`Meteor`</a>
  - 💬 Ask me about anything, I love to share
  - 😄 Pronouns: He/Him
  - ⚙️ I use daily: `.js`, `.php`, `.html`, `.css`, `.ts` and web design software, such as `Adobe XD` or `Figma`
