@@ -12,7 +12,7 @@
  - 🌱 I’m currently learning <a href="https://www.meteor.com/" target="_blank">`Meteor`</a>
  - 💬 Ask me about anything, I love to share
  - 😄 Pronouns: He/Him
- - ⚙️ I use daily: `.js`, `.php`, `.html`, `.css`, `.ts` and web design software, such as `Adobe XD` or `Figma`
+ - ⚙️ I use daily: `.ts` (of course), `.js`, `.html`, `.css`, `.php` (sometimes) and web design software, such as `Adobe XD` or `Figma`
  - 📝 Checkout my resume 👉 <a href="./assets/cv_lilian_ouvrard.pdf">`(Fr)`</a> or <a href="./assets/cv_lilian_ouvrard_US.pdf">`(Us)`</a> version
  - ⚡ Fun fact: Fan of the great Professor Layton 🎩
  - 📫 How to reach me: <a href="mailto:ouvrard.l@outlook.com">`Email`</a> / <a target="_blank" href="https://www.linkedin.com/in/lilian-ouvrard-b8130317b/">`LinkedIn`</a>
