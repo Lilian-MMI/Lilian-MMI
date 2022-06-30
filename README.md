@@ -44,31 +44,23 @@
 **Profil overview:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    211 commits    █████░░░░░░░░░░░░░░░░░░░░   22.76% 
-🌆 Daytime    519 commits    ██████████████░░░░░░░░░░░   55.99% 
-🌃 Evening    181 commits    █████░░░░░░░░░░░░░░░░░░░░   19.53% 
-🌙 Night      16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73%
+🌞 Morning    211 commits    █████░░░░░░░░░░░░░░░░░░░░   22.69% 
+🌆 Daytime    522 commits    ██████████████░░░░░░░░░░░   56.13% 
+🌃 Evening    181 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.46% 
+🌙 Night      16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.72%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 30/06/2022 01:05:52 UTC
+ Last Updated on 30/06/2022 13:52:57 UTC
 <!--END_SECTION:waka-->
 
 <hr>
