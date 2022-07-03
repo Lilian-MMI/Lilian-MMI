@@ -18,6 +18,7 @@ jobs:
           SHOW_COMMIT: "True"
           SHOW_OS: "False"
           SHOW_TIME: "False"
+          SHOW_TOTAL: "False"
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
