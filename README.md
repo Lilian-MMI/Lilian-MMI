@@ -45,7 +45,7 @@
 **Profil overview:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -61,7 +61,7 @@
 
 
 
- Last Updated on 18/08/2022 01:26:55 UTC
+ Last Updated on 19/08/2022 01:17:03 UTC
 <!--END_SECTION:waka-->
 
 <hr>
