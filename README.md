@@ -9,7 +9,7 @@
  <img align="right" height="200" src="./assets/cat-internet.gif" />
    
  - 🔭 I'm currently working on my new portfolio
- - 🌱 I’m currently learning <a href="https://www.meteor.com/" target="_blank">`Meteor`</a>
+ - 🌱 I’m currently learning <a href="https://remix.run/" target="_blank">`Remix`</a>
  - 💬 Ask me about anything, I love to share
  - 😄 Pronouns: He/Him
  - ⚙️ I use daily: `.ts` (of course), `.js`, `.html`, `.css`, `.php` (sometimes) and web design software, such as `Adobe XD` or `Figma`
