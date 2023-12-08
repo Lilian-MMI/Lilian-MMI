@@ -45,10 +45,22 @@
 **Profil overview:** 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs%2051%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.4%20million%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
 
- Last Updated on 07/12/2023 00:50:35 UTC
+```text
+🌞 Morning                2099 commits        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+🌆 Daytime                4712 commits        ██████████████░░░░░░░░░░░   57.60 % 
+🌃 Evening                1244 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+🌙 Night                  126 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+```
+
+
+
+ Last Updated on 08/12/2023 00:51:14 UTC
 <!--END_SECTION:waka-->
 
 <hr>
