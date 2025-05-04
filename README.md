@@ -45,6 +45,8 @@
 **Profil overview:** 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs%2051%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -58,7 +60,7 @@
 
 
 
- Last Updated on 03/05/2025 01:10:31 UTC
+ Last Updated on 04/05/2025 01:17:45 UTC
 <!--END_SECTION:waka-->
 
 <hr>
